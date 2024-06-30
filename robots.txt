@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://maxdon.tech/sitemap.xml
